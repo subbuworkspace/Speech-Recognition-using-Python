@@ -1,0 +1,6 @@
+Speech-Recognition-Python/
+│
+├── speech_recognition.py
+├── README.md
+├── requirements.txt
+└── .gitignore
